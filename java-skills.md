@@ -24,7 +24,7 @@
 21. What types of inheritance in Java ?
 22. What is `wildcard` Generics in Java ?
 23. Describe `Multi Thread` in Java ?
-24. Descrine `Constructor` & `Deconstructor`.
+24. Describe `Constructor` & `Deconstructor`.
 25. What diff between `inner class` and `nested class` ?
 26. What is `Anonymous class` ?
 27. Do you use `Design Pattern`s ? Which ? Describe ?
